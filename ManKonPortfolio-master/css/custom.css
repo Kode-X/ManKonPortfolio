@@ -1,0 +1,27 @@
+nav {
+  background-color: #cce3f9;
+  padding: 15px 15px;
+}
+nav ul {
+  margin: 0px;
+  list-style-type: none;
+}
+nav ul li {
+  display: inline;
+  padding: 0px 15px;
+}
+nav ul li:hover {
+  background-color: #c6d4f4;
+  padding: 15px 15px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  transition: 0.4s;
+}
+section {
+  width: 100%;
+}
+section img {
+  width: inherit;
+}
